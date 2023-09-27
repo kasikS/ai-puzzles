@@ -12,3 +12,7 @@ project2 - minesweeper and propositional logic
 
 
 project3 - heredity and joint probability
+
+project4 - crossword and constraint satisfaction problems
+![crossword](https://github.com/kasikS/ai-puzzles/assets/8525951/f93cea36-dfac-494f-b846-eb2db31040da)
+
