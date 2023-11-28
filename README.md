@@ -16,3 +16,6 @@ project3 - heredity and joint probability
 project4 - crossword and constraint satisfaction problems
 ![crossword](https://github.com/kasikS/ai-puzzles/assets/8525951/f93cea36-dfac-494f-b846-eb2db31040da)
 
+project 5 - AI to predict whether online shopping customers will complete a purchase
+
+project 6 - AI that teaches itself to play Nim through reinforcement learning.
