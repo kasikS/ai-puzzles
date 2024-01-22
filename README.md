@@ -26,3 +26,5 @@ project 6 - AI that teaches itself to play Nim through reinforcement learning.
 project 7 - neural network to classify road signs based on an image of those signs. Used following dataset: [German Traffic Sign Recognition Benchmark (GTSRB)](https://benchmark.ini.rub.de/gtsrb_news.html), which contains thousands of images of 43 different kinds of road signs.
 
 project 8 - AI that parses sentences and extract noun phrases using `nltk`.
+
+project 9 - AI to predict a masked word in a text sequence.
